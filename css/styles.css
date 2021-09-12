@@ -1,0 +1,252 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Title Section */
+.title-bg {
+  background-color: #000812;
+}
+
+.title-quote-style {
+  margin-top: 3%;
+  color: white;
+  font-family: "Playfair Display", serif;
+  font-size: 4rem;
+}
+.title-padding {
+  padding: 3% 15%;
+}
+.nb-remove-left-pad {
+  padding-left: 0;
+}
+.brand-custom-style {
+  font-family: "Pacifico", cursive;
+  color: #cea462;
+  font-size: 2rem;
+}
+.brand-custom-style:hover {
+  color: white;
+}
+.nav-link-style {
+  color: white;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+.nav-link-style:hover {
+  color: #cea462;
+}
+.title-btn-color {
+  color: #cea462;
+  border-color: #cea462;
+  margin: 10px;
+}
+.title-btn-container {
+  padding-top: 7%;
+}
+
+.fa-utensils,
+.fa-chair {
+  margin-right: 0.5rem;
+}
+.f-icon-size {
+  font-size: 5rem;
+  color: #cea462;
+}
+.fc-pad {
+  padding: 7% 10%;
+}
+
+.f-icon-margin {
+  margin-bottom: 3.5rem;
+}
+
+.f-icon-center {
+  text-align: center;
+}
+
+.f-center {
+  text-align: center;
+}
+.f-p {
+  color: #000812a9;
+  font-size: 1.1rem;
+  line-height: 2;
+}
+
+.f-title {
+  font-weight: bold;
+  font-size: 2.5rem;
+  font-family: "Playfair Display", serif;
+  color: #000812;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #000812;
+}
+.t-col-t {
+  color: #cea462;
+  font-family: "Playfair Display", serif;
+}
+.t-size-t {
+  font-size: 3rem;
+}
+.testimonial-image {
+  width: 300px;
+  margin: 3% 0;
+}
+
+.dis-desciption {
+  color: white;
+  line-height: 2;
+  font-weight: lighter;
+  width: 500px;
+  height: 192px;
+  margin: auto;
+}
+.testimonial-pad {
+  padding: 5% 15%;
+}
+.container-dish {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.card {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+.card-head-style {
+  font-size: 2rem;
+  color: #cea462;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.card-price-style {
+  color: #000812;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.card-header {
+  background-color: #000812;
+}
+.card-body {
+  border: solid 1px #000812;
+}
+.card-ingridients {
+  font-size: 1.3rem;
+  color: #0008128f;
+  font-weight: bold;
+  padding-top: 2%;
+}
+.btn-color-card {
+  border-color: #000812;
+  color: #000812;
+}
+.btn-color-card:hover {
+  color: white;
+}
+
+.price-title-h1 {
+  font-size: 5rem;
+}
+
+.pad-p-intro {
+  padding: 3% 15px 5% 15px;
+  text-align: center;
+}
+.pad-price {
+  padding: 0 15% 3%;
+}
+.price-desc-p {
+  font-size: 2rem;
+  color: #cea462;
+  padding-left: 6%;
+}
+.floral-bg-png {
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+.bg-f {
+  background-color: white;
+  position: relative;
+}
+.positioned-rel {
+  position: relative;
+  z-index: 1;
+}
+
+.copyright-brand {
+  font-family: "Pacifico", cursive;
+}
+.quote-style {
+  font-size: 5rem;
+  text-align: center;
+  max-width: 40%;
+  margin: auto;
+  color: #cea462;
+}
+
+.quote-bg-container {
+  background-color: #000812;
+  font-family: "Playfair Display", serif;
+  padding: 5%;
+}
+
+.line {
+  margin-top: 5%;
+  width: 15%;
+  background-color: #cea462;
+  height: 5px;
+  margin: 5% auto;
+}
+.bg-footer {
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  padding: 7% 0 3%;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+
+.contact-icon-pad {
+  font-size: 1.5rem;
+  padding: 0 50px;
+}
+.color {
+  color: #000812;
+}
+
+/* QUERIES */
+
+.title-image {
+  width: 500px;
+}
+
+/* @media (max-width: 1125px) {
+  .title-quote-style {
+    font-size: 2.5rem;
+  }
+  .floral-bg-png {
+    width: 300px;
+    left: 200px;
+    top: 500px;
+  }
+  .title-image {
+    width: 300px;
+  }
+  #title {
+    text-align: center;
+  }
+} */
+
+.navbar-toggler {
+  color: white;
+}
